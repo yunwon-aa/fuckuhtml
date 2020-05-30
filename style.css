@@ -102,7 +102,7 @@ body {
 	font-weight: 700;
 }
 .remove-image:hover {
-	background: #c13b2a;
+	background: black;
 	color: #ffffff;
 	transition: all 0.2s ease;
 	cursor: pointer;
