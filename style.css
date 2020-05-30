@@ -147,6 +147,13 @@ body {
 	margin: 0 auto;
 }
 
+.com-site {
+	font-size: 11px;
+	margin-bottom:4px;
+	margin-top:4px;
+	text-align:center;
+	margin:0 auto;
+}
 .comments {
 	margin-top:60px;
 }
